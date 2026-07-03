@@ -2,8 +2,8 @@ import yagmail
 
 
 yag = yagmail.SMTP(
-    User="khankeya961@gmail.com",
-    Password="hesh ynjh ysrp teck")
+    user="khankeya961@gmail.com",
+    password="hesh ynjh ysrp teck")
 
 yag.send(
     to =  "abilakhan961@gmail.com",
