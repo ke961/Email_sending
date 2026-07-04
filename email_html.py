@@ -79,7 +79,7 @@ try:
 
     yag.send(
         to="abilakhankeya@gmail.com",
-        subject="Hi Keya",
+        subject="Hi Keya . how are you?",
         contents=html
     )
 
